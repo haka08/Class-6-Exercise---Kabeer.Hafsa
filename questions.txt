@@ -5,4 +5,4 @@
 
 3. git diff README.md
 4. git show abc123
-5. git log
+5. git log -n 3

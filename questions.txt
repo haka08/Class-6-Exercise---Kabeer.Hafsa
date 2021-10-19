@@ -4,3 +4,4 @@
    git commit -m "created file hello world"
 
 3. git diff README.md
+4. git show abc123
